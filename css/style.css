@@ -175,7 +175,7 @@ p {
 /*--//about--*/
 /*--work--*/
 .work {
-    background: #000;
+    background: #dddddd;
 }
 .work-left {
     text-align: right;
@@ -271,7 +271,10 @@ p {
 /*--//education--*/
 /*--skills--*/
 .skills{
-	background:#000;
+	background:#20508e;
+}
+.skills_heading{
+    color:white !important;
 }
 .bar-grids {
     padding: 0 4em;
