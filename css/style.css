@@ -146,9 +146,10 @@ h3.title {
 	margin-bottom: 1em;
 }
 p {
-    font-size: 1em;
-    color: #999;
-    line-height: 1.8em;
+    font-size: 1.2em;
+    color: #333333;
+    line-height: 1.6em;
+    text-align: justify;
 }
 .about-right {
     padding-left: 5em;
@@ -187,7 +188,7 @@ p {
 }
 .work-info h4 {
     font-size: 1.2em;
-    background: darkcyan;
+    background: #20508e;
     display: inline-block;
     padding: .6em 1.2em;
     color: #fff;
@@ -203,13 +204,13 @@ p {
     right: -14px;
     border-style: solid;
     border-width: 10px 0 10px 16px;
-    border-color: transparent transparent transparent rgb(0, 139, 139);
+    border-color: transparent transparent transparent #20508e;
 }
 .work-info h5 {
     font-size: 1.3em;
-    color: #F7E612;
+    color: #20508e;
     margin-bottom: .5em;
-    border: 1px solid #F7E612;
+    border: 1px solid #20508e;
     display: inline-block;
     padding: 0 1.2em;
 }
