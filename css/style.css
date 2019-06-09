@@ -108,7 +108,7 @@ ul.address li ul.address-text li a:hover{
 /*--//banner-top--*/
 /*--top-nav--*/
 .top-nav {
-    background: #008B8B;
+    background: #20508e;
 }
 .nav > li {
     display: inline-block;
@@ -124,7 +124,7 @@ ul.nav.navbar li a {
     font-family: 'Overlock', cursive;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
-    color: #008B8B;
+    color: #20508e;
     background: #fff;
 	-webkit-transform: scale(0.8);
 	-moz-transform: scale(0.8);
@@ -140,7 +140,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 h3.title {
     font-size: 4em;
     text-align: center;
-    color: #008B8B;
+    color: #20508e;
     border-bottom: 4px double rgba(247, 197, 106, 0.35);
     padding-bottom: 0.2em;
 	margin-bottom: 1em;
@@ -154,13 +154,13 @@ p {
     padding-left: 5em;
 }
 .about-right ul {
-    border: 3px double #008B8B;
+    border: 3px double #20508e;
     padding: 1em 2em;
 }
 .about-right h5 {
     font-size: 2em;
     text-align: center;
-    color: #008B8B;
+    color: #20508e;
 }
 .about-right ul li {
     display: block;
@@ -216,7 +216,7 @@ p {
 .work-info h5 span.glyphicon {
     font-size: 0.9em;
     color: #fff;
-    background: #008B8B;
+    background: #20508e;
     padding: 1em;
     -webkit-border-radius: 70%;
     -moz-border-radius: 70%;
@@ -573,8 +573,8 @@ h2.resp-accordion {
     font-size: 1.1em;
     margin: 1em 0 0 0;
     -webkit-appearance: none;
-    background: #008B8B;
-    border: 2px solid #008B8B;
+    background: #20508e;
+    border: 2px solid #20508e;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     transition: 0.5s all;
@@ -583,7 +583,7 @@ h2.resp-accordion {
 }
 .contact-form input[type="submit"]:hover {
     background: none;
-    color: #008B8B;
+    color: #20508e;
 }
 ::-webkit-input-placeholder {
 	color:#fff !important;
