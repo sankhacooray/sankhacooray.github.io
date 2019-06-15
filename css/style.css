@@ -4,6 +4,18 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+
+.learn-more {
+    background-color: #20508e;
+    text-align: center;
+}
+.learn-more h2 {
+    color: white;
+}
+.learn-more h2:hover {
+    color: yellow;
+}
+
 body{
 	margin:0;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -285,8 +297,8 @@ p {
     margin-bottom: 2.2em;
     background-color: #2F2C06;
 }
-.progress-bar { 
-    background-color: #766E04;
+.progress-bar {
+    background-color: #63696d;
 }
 .bar-grids h6 {
     font-size: 1.1em;
