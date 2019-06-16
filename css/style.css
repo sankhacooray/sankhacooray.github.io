@@ -15,7 +15,20 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 .learn-more h2:hover {
     color: yellow;
 }
-
+.contact-me{
+    color: white !important;
+}
+.find-me{
+    color: white !important;
+}
+.find-me a {
+    color: white !important;
+    text-decoration: none !important;
+}
+.find-me a:hover {
+        color: yellow !important;
+            text-decoration: none !important;
+}
 body{
 	margin:0;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -527,7 +540,7 @@ h2.resp-accordion {
 }
 .address-left {
     float: left;
-    width: 55%;
+    width: 50%;
 	position: relative;
 }
 .address-right {
