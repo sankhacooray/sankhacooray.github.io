@@ -238,6 +238,7 @@ p {
     border: 1px solid #20508e;
     display: inline-block;
     padding: 0 1.2em;
+    width: 350px;
 }
 .work-info h5 span.glyphicon {
     font-size: 0.9em;
