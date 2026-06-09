@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Serve site (Chrome)",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://127.0.0.1:5500/index.html",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "serve-site"
+    },
+    {
+      "name": "Serve v2 (Chrome)",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://127.0.0.1:5500/v2/index.html",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "serve-site"
+    }
+  ]
+}
