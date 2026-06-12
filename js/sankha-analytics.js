@@ -27,7 +27,7 @@
   var CONFIG = {
     // GA4 Measurement ID for the shared network property. Format: G-XXXXXXXXXX.
     // Get it from GA4 Admin → Data Streams → your web stream.
-    MEASUREMENT_ID: 'G-XXXXXXXXXX',
+    MEASUREMENT_ID: 'G-EPVPJGS2JL',
 
     // The Apps Script web-app /exec URL (the analytics proxy deployment).
     // Get it after `npm run deploy` in analytics-sankhacooray-com.
